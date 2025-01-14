@@ -1,4 +1,4 @@
-# Cleaning data for E-Commerce Insight
+# Cleaning Sales data for E-Commerce Insight
 
 ## Table of Content 
 
