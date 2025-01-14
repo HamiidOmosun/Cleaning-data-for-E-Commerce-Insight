@@ -64,6 +64,8 @@ WITH RankedProducts AS(
 - Product categories, dates, and regions were standardized for consistency.
 - The cleaned dataset is ready for further analysis or visualization.
 
+![sql clean data](https://github.com/user-attachments/assets/eb052f73-cbf3-4b19-9418-be2815b651d3)
+
 ## Challenges Encountered
 - Handling a high number of null values in the customer_name column and customer_email.
 - Standardizing categories with slight spelling variations (e.g., "MILK" vs. "Milk").
